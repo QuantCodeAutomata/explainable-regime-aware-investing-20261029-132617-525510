@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+hmmlearn
+cvxpy
+quantstats
+matplotlib
+requests
+python-dotenv
+pyarrow
+pytest

@@ -1,0 +1,32 @@
+{
+  "exp_wasserstein_hmm_portfolio": {
+    "sharpe_ratio": 1.9683999110248735,
+    "sortino_ratio": 2.908190377574166,
+    "max_drawdown": -0.04594555714044124,
+    "annualized_return": 0.09884212153639016,
+    "annualized_volatility": 0.04849090944883461,
+    "avg_daily_turnover": 1.3462476050651319e-06,
+    "avg_effective_n_positions": 2.272730527162459,
+    "n_days": 691
+  },
+  "equal_weight": {
+    "sharpe_ratio": 1.7483511596705585,
+    "sortino_ratio": 2.6886225291191286,
+    "max_drawdown": -0.07812911208737228,
+    "annualized_return": 0.1530796817069915,
+    "annualized_volatility": 0.08347935293992302,
+    "avg_daily_turnover": 0.0,
+    "avg_effective_n_positions": 4.999999999999999,
+    "n_days": 691
+  },
+  "spx_buy_and_hold": {
+    "sharpe_ratio": 1.3851277250526268,
+    "sortino_ratio": 2.0733916356481035,
+    "max_drawdown": -0.18755304830279862,
+    "annualized_return": 0.21975944023562488,
+    "annualized_volatility": 0.15172231235699482,
+    "avg_daily_turnover": 0.0,
+    "avg_effective_n_positions": 1.0,
+    "n_days": 691
+  }
+}

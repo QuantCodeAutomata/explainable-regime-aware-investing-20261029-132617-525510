@@ -1,0 +1,32 @@
+{
+  "exp_knn_comparison": {
+    "sharpe_ratio": 1.8412719387338192,
+    "sortino_ratio": 2.754776624567959,
+    "max_drawdown": -0.12033759037455416,
+    "annualized_return": 0.2484531441481561,
+    "annualized_volatility": 0.12479700799577556,
+    "avg_daily_turnover": 0.609849936845599,
+    "avg_effective_n_positions": 2.173604334535016,
+    "n_days": 691
+  },
+  "equal_weight": {
+    "sharpe_ratio": 1.7483511596705585,
+    "sortino_ratio": 2.6886225291191286,
+    "max_drawdown": -0.07812911208737228,
+    "annualized_return": 0.1530796817069915,
+    "annualized_volatility": 0.08347935293992302,
+    "avg_daily_turnover": 0.0,
+    "avg_effective_n_positions": 4.999999999999999,
+    "n_days": 691
+  },
+  "spx_buy_and_hold": {
+    "sharpe_ratio": 1.3851277250526268,
+    "sortino_ratio": 2.0733916356481035,
+    "max_drawdown": -0.18755304830279862,
+    "annualized_return": 0.21975944023562488,
+    "annualized_volatility": 0.15172231235699482,
+    "avg_daily_turnover": 0.0,
+    "avg_effective_n_positions": 1.0,
+    "n_days": 691
+  }
+}
